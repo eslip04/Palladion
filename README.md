@@ -4,6 +4,8 @@
 
 Palladion is the **modern safeguard for client trust and escrow accounting** — delivering transparency, compliance, and security with the wisdom of Athena and the strength of myth.  
 
+🌐 **Official Site:** [palladionapp.com](https://palladionapp.com)
+
 ---
 
 ## 🌐 Brand Identity
@@ -111,4 +113,4 @@ Palladion is the **modern safeguard for client trust and escrow accounting** —
 ## ⚠️ Disclaimer
 Palladion is **not a bank**; it integrates with licensed bank partners. This material is **not legal advice** — compliance must be configured per jurisdiction.  
 
----
+🌐 Learn more: [palladionapp.com](https://palladionapp.com)
